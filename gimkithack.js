@@ -12,20 +12,8 @@
             'Multi': [50, 300, 2e3, 12e3, 85e3, 7e5, 65e5, 65e6, 1e9],
             'Powerups': [
                 {
-                    'name': 'Love Song',
-                    'price': 55
-                }, {
-                    'name': 'Clapinator',
-                    'price': 25
-                }, {
                     'name': 'Icer',
                     'price': 45
-                }, {
-                    'name': 'Deflector',
-                    'price': 60
-                }, {
-                    'name': 'Rebooter',
-                    'price': 1005
                 }, {
                     'name': 'Gift',
                     'price': 205
